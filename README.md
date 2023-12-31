@@ -1,2 +1,2 @@
 # kimdevoe.github.io
-Awesome Recipes 
+Awesome Recipes!
